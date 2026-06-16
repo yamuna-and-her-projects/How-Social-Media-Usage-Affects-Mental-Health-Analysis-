@@ -1,4 +1,4 @@
-# Social Media and Mental Health Analysis
+# Social Media and Mental Health - Analysis 
 
 ## Objective
 Exploratory data analysis on how social media usage affects mental health
