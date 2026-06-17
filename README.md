@@ -10,6 +10,7 @@ Using Exploratory Data Analysis (EDA) with Python, this project uncovers pattern
 **Dataset Description:**
 
 **Data Source:**  Kaggle
+
 **Note:** Dataset was preprocessed — unnecessary columns were removed.
 
 FeatureDescriptionAgeRespondent age (16–49 years)GenderMale / Female / OtherDaily_Screen_Time(hrs)Hours spent on social media per daySleep_Quality(1-10)Self-reported sleep quality scoreStress_Level(1-10)Self-reported stress level scoreSocial_Media_PlatformPrimary platform used (Facebook, Instagram, TikTok, YouTube, LinkedIn, X)
