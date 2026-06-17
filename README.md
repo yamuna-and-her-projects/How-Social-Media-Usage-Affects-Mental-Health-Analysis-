@@ -40,6 +40,7 @@ QuestionChart TypeScreen Time vs StressBar ChartPlatform vs StressHorizontal Bar
 **Key Findings:**
 
 * Instagram users report the highest average stress level (6.96/10) and worst sleep quality (5.91/10) among all platforms
+  ![Q1](q1_screen_time_stress.png)
 * A negative correlation exists between daily screen time and sleep quality — more screen time leads to worse sleep
 * High screen time users (6+ hrs) show significantly higher stress levels compared to low usage groups
 * Young adults (16–25) tend to use social media the most and are among the most stressed age groups
