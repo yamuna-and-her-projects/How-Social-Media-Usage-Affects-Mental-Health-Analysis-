@@ -72,4 +72,4 @@ This analysis shows a clear relationship between heavy social media usage and de
 
 Yamuna S
 
-GitHub: @yamuna-and-her-projects
+Linkedin : www.linkedin.com/in/yamuna-s-615138361
