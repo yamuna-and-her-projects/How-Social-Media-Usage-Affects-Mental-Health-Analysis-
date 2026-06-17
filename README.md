@@ -2,11 +2,17 @@
 
 
 <img width="840" height="480" alt="q1_screen_time_stress" src="https://github.com/user-attachments/assets/ddd1ac34-e5a8-4e5b-9165-49938e43acaa" />
+
 <img width="960" height="600" alt="q2_platform_stress" src="https://github.com/user-attachments/assets/b5098665-9e1e-4b7b-b495-659bf34cc49c" />
+
 <img width="1525" height="627" alt="q3_sleep_screentime" src="https://github.com/user-attachments/assets/61d31113-9c33-43de-b856-fb0ae6625341" />
+
 <img width="1544" height="616" alt="q4_age_group" src="https://github.com/user-attachments/assets/00e7300f-ac05-4158-8230-121514934e14" />
+
 <img width="1184" height="584" alt="q5_gender_platform_stress" src="https://github.com/user-attachments/assets/16e5f4c6-5230-4861-96e4-b76cb17a151b" />
+
 <img width="1544" height="616" alt="q6_platform_sleep" src="https://github.com/user-attachments/assets/db176fd5-2720-42c1-8ec5-ae60705685d6" />
+
 <img width="1664" height="616" alt="q7_worst_combined" src="https://github.com/user-attachments/assets/73a330c5-51f1-4058-b92e-c2adba585752" />
 
 
@@ -79,5 +85,7 @@ This analysis shows a clear relationship between heavy social media usage and de
 
 
 **Author**
+
 Yamuna S
+
 GitHub: @yamuna-and-her-projects
