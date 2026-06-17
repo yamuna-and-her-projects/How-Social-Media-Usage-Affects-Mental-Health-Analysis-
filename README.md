@@ -1,4 +1,4 @@
-How Social Media Usage Affects Mental Health — Data Analysis
+**How Social Media Usage Affects Mental Health — Data Analysis**
 
 
 <img width="840" height="480" alt="q1_screen_time_stress" src="https://github.com/user-attachments/assets/ddd1ac34-e5a8-4e5b-9165-49938e43acaa" />
@@ -10,23 +10,23 @@ How Social Media Usage Affects Mental Health — Data Analysis
 <img width="1664" height="616" alt="q7_worst_combined" src="https://github.com/user-attachments/assets/73a330c5-51f1-4058-b92e-c2adba585752" />
 
 
-Project Overview:
+**Project Overview:**
 
 This project explores how daily social media usage impacts mental health indicators such as stress levels and sleep quality across different age groups, genders, and platforms.
 
 Using Exploratory Data Analysis (EDA) with Python, this project uncovers patterns and insights from real survey data — answering 7 key research questions with meaningful visualizations.
 
-Dataset Description:
+
+**Dataset Description:**
 
 FeatureDescriptionAgeRespondent age (16–49 years)GenderMale / Female / OtherDaily_Screen_Time(hrs)Hours spent on social media per daySleep_Quality(1-10)Self-reported sleep quality scoreStress_Level(1-10)Self-reported stress level scoreSocial_Media_PlatformPrimary platform used (Facebook, Instagram, TikTok, YouTube, LinkedIn, X)
-
 
 Total Records: 500 respondents
 Platforms Covered: Facebook, Instagram, TikTok, YouTube, LinkedIn, X (Twitter)
 Age Range: 16 to 49 years
 
 
-Research Questions:
+**Research Questions:**
 
 1. Does higher daily screen time lead to higher stress levels?
 2. Which social media platform has the most stressed users?
@@ -37,18 +37,17 @@ Research Questions:
 7. Who has the worst combined profile — highest stress + worst sleep + most screen time?
 
 
-
-Tools & Libraries Used:
+**Tools & Libraries Used:**
 
 ToolPurposePython 3Core programming languagePandasData cleaning and manipulationMatplotlibBase visualizationsSeabornAdvanced statistical chartsNumPyNumerical operationsGoogle ColabDevelopment environment
 
 
-Visualizations Used:
+**Visualizations Used:**
 
 QuestionChart TypeScreen Time vs StressBar ChartPlatform vs StressHorizontal Bar ChartScreen Time vs SleepScatter Plot + HeatmapAge Group AnalysisLine Chart + Bar ChartGender × Platform StressGrouped Bar ChartPlatform vs Sleep QualityBar Chart + Box PlotWorst-Case ProfileHeatmap + Bar Chart
 
 
-Key Findings:
+**Key Findings:**
 
 * Instagram users report the highest average stress level (6.96/10) and worst sleep quality (5.91/10) among all platforms
 * A negative correlation exists between daily screen time and sleep quality — more screen time leads to worse sleep
@@ -58,7 +57,7 @@ Key Findings:
 * A filtered group of users with stress ≥ 8, sleep quality ≤ 4, and screen time ≥ 6 hrs represents the highest-risk segment for digital wellness intervention
 
 
-How to Run This Project:
+**How to Run This Project:**
 
 * Option 1 — Google Colab (Recommended)
 
@@ -74,11 +73,11 @@ bashpip install pandas matplotlib seaborn numpy jupyter
 jupyter notebook social_media_mental_health_analysis.ipynb
 
 
-Conclusion:
+**Conclusion:**
 
 This analysis shows a clear relationship between heavy social media usage and declining mental health indicators. Platforms like Instagram are associated with higher stress and poorer sleep, particularly among younger users. These findings suggest that digital wellness awareness and screen time management can meaningfully improve mental health outcomes.
 
 
-Author
+**Author**
 Yamuna S
 GitHub: @yamuna-and-her-projects
