@@ -1,4 +1,6 @@
-** How Social Media Usage Affects Mental Health — Data Analysis**
+How Social Media Usage Affects Mental Health — Data Analysis
+
+
 <img width="840" height="480" alt="q1_screen_time_stress" src="https://github.com/user-attachments/assets/ddd1ac34-e5a8-4e5b-9165-49938e43acaa" />
 <img width="960" height="600" alt="q2_platform_stress" src="https://github.com/user-attachments/assets/b5098665-9e1e-4b7b-b495-659bf34cc49c" />
 <img width="1525" height="627" alt="q3_sleep_screentime" src="https://github.com/user-attachments/assets/61d31113-9c33-43de-b856-fb0ae6625341" />
