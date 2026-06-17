@@ -40,12 +40,36 @@ QuestionChart TypeScreen Time vs StressBar ChartPlatform vs StressHorizontal Bar
 **Key Findings:**
 
 * Instagram users report the highest average stress level (6.96/10) and worst sleep quality (5.91/10) among all platforms
-  ![Q1](q1_screen_time_stress.png)
+  
+  ![Q2](q2_platform_stress.png)
+![Q6](q6_platform_sleep.png)
+
+---
 * A negative correlation exists between daily screen time and sleep quality — more screen time leads to worse sleep
+  
+  ![Q3](q3_sleep_screentime.png)
+
+---
 * High screen time users (6+ hrs) show significantly higher stress levels compared to low usage groups
+
+![Q1](q1_screen_time_stress.png)
+
+---
 * Young adults (16–25) tend to use social media the most and are among the most stressed age groups
+
+![Q4](q4_age_group.png)
+
+---
 * Stress levels vary notably across genders and platforms — certain combinations show particularly high-risk patterns
+
+![Q5](q5_gender_platform_stress.png)
+
+---
 * A filtered group of users with stress ≥ 8, sleep quality ≤ 4, and screen time ≥ 6 hrs represents the highest-risk segment for digital wellness intervention
+
+![Q7](q7_worst_combined.png)
+
+---
 
 
 **How to Run This Project:**
@@ -56,7 +80,6 @@ Open the .ipynb file in Google Colab
 Upload the CSV dataset using the left panel file upload
 Click Runtime → Run All
 All charts will appear below each cell
-
 
 * Option 2 — Local (Jupyter Notebook)
 
